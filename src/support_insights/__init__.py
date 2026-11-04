@@ -1,0 +1,1 @@
+"""Support message analysis with durable Google Sheets results."""
